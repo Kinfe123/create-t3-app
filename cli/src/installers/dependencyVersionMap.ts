@@ -8,6 +8,9 @@ export const dependencyVersionMap = {
   "@auth/prisma-adapter": "^2.7.2",
   "@auth/drizzle-adapter": "^1.7.2",
 
+  // better-auth
+  "better-auth": "0.6.0",
+
   // Prisma
   prisma: "^5.14.0",
   "@prisma/client": "^5.14.0",
